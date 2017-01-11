@@ -15,3 +15,7 @@ https://www.apachelounge.com/viewtopic.php?t=6359
 
 V8JS for Windows
 http://windows.php.net/downloads/pecl/snaps/v8js/0.1.3/
+
+PHP INTL - 
+http://userguide.icu-project.org/transforms/general
+http://php.net/manual/en/transliterator.transliterate.php
