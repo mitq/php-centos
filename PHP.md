@@ -12,3 +12,6 @@ http://jonnnnyw.github.io/php-phantomjs/
 
 PHP .DDL for Windows 
 https://www.apachelounge.com/viewtopic.php?t=6359
+
+V8JS for Windows
+http://windows.php.net/downloads/pecl/snaps/v8js/0.1.3/
