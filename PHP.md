@@ -19,3 +19,6 @@ http://windows.php.net/downloads/pecl/snaps/v8js/0.1.3/
 PHP INTL - 
 http://userguide.icu-project.org/transforms/general
 http://php.net/manual/en/transliterator.transliterate.php
+
+PHP Mongo
+http://php.net/manual/zh/book.mongo.php
