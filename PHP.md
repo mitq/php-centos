@@ -22,3 +22,14 @@ http://php.net/manual/en/transliterator.transliterate.php
 
 PHP Mongo
 http://php.net/manual/zh/book.mongo.php
+
+PHP scws
+https://github.com/hightman/scws
+
+igbinary
+https://github.com/igbinary/igbinary
+
+msgpack
+http://msgpack.org/index.html#compile-msgpack-from-source
+
+PHP Redis
