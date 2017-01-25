@@ -2,9 +2,9 @@ Repo設置
 先確認您的伺服器已經打開SSH通道，然後執行下面指令(您需要有執行指令的權限，如果有必要建議使用root操作，或是sudo):
 
 在CentOS 7下(包含安裝EPEL)
-wget http://dl.fedoraproject.org/pub/epel/ ... el-release-7-8.noarch.rpm
-wget http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
-rpm -Uvh remi-release-7*.rpm epel-release-7*.rpm
+`wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-8.noarch.rpm`
+`wget http://rpms.famillecollet.com/enterprise/remi-release-7.rpm`
+`rpm -Uvh remi-release-7*.rpm epel-release-7*.rpm`
 如果您原本就已經裝過EPEL則執行下面指令：
 
 wget http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
