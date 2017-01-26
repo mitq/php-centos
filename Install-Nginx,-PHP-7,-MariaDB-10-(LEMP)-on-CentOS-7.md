@@ -90,11 +90,17 @@ user = nginx
 group = nginx
 ```
 Start php-fpm
-`systemctl start php-fpm`
+```
+systemctl start php-fpm
+```
 Enable it to boot
-`systemctl enable php-fpm`
+```
+systemctl enable php-fpm
+```
 
-`vi /etc/nginx/conf.d/default.conf`
+```
+vi /etc/nginx/conf.d/default.conf
+```
 ```
 server {
     listen       80;
