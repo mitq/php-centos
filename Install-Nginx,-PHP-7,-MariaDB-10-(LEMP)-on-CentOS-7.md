@@ -66,3 +66,25 @@ yum install php70w-fpm
 yum install php70w-devel php70w-pear
 yum install php70w-pecl-apcu php70w-opcache
 ```
+
+`vi /etc/php.ini`
+
+find `cgi.fix_pathinfo=1` and then replace it with `cgi.fix_pathinfo=0`
+
+`vi /etc/php-fpm.d/www.conf`
+
+find and replace with:
+
+1)
+`listen = /var/run/php-fpm/php-fpm.sock`
+2)
+```
+listen.owner = nobody
+listen.group = nobody
+```
+3)
+```
+user = nginx
+group = nginx
+```
+
