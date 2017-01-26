@@ -128,3 +128,7 @@ server {
     }
 }
 ```
+If meet permission denied issue..
+```
+chown nginx:nginx /var/run/php-fpm/php-fpm.sock
+```
