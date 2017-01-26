@@ -57,4 +57,11 @@ Search available modules
 
 install modules you need
 
-`yum install php70w-xml php70w-soap php70w-xmlrpc php70w-mbstring php70w-json php70w-gd php70w-mcrypt php70w-mysql`
+```
+yum install php70w-xml php70w-soap php70w-xmlrpc php70w-mbstring php70w-json php70w-gd php70w-mcrypt php70w-mysql 
+yum install php70w-intl php70w-tidy
+yum install php70w-pecl-redis php-pecl-mongodb 
+yum install php70w-fpm
+yum install php70w-devel php70w-pear
+yum install php70w-pecl-apcu php70w-opcache
+```
