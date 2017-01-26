@@ -47,7 +47,7 @@ see if it works or not
 
 ``php -v``
 
-![](blob:http://imgur.com/ef6417c3-f836-40fd-b911-c7099eba1652)
+![](http://i.imgur.com/XFFuwvv.png)
 
 Search available modules
 
