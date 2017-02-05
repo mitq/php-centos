@@ -10,10 +10,10 @@
 
 4. Install nginx with pagespeed and openssl 1.0.2k 
 (https://modpagespeed.com/doc/build_ngx_pagespeed_from_source)
-``
+```
 bash <(curl -f -L -sS https://ngxpagespeed.com/install) \
      --nginx-version latest
-``
+```
 
 5. add:
 notice that `--with-openssl=/usr/local/src/openssl-1.0.2k`
