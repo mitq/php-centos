@@ -62,7 +62,7 @@ yum install php70w-xml php70w-soap php70w-xmlrpc php70w-mbstring php70w-json php
 yum install php70w-intl php70w-tidy
 yum install php70w-pecl-redis 
 yum install php-pecl-mongodb
-my version: php70w-pecl-mongodb
+my version: yum install php70w-pecl-mongodb
 yum install php70w-fpm
 yum install php70w-devel php70w-pear
 yum install php70w-pecl-apcu php70w-opcache
